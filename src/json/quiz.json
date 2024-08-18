@@ -1,0 +1,22 @@
+{
+  "1": {
+    "quiz_question":{
+      "quiz_text": "What is json?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1": "Michael Myers","2": "stands for JavaScript Object Notation",
+        "3": "This is where code becomes art", "4": "standard of deferred payment"}
+    },
+    "correct_answer": "stands for JavaScript Object Notation"
+  },
+  "2": {
+    "quiz_question":{
+      "quiz_text": "What is database?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1": "base system of drawing money","2": "American anthropologist ",
+        "3": "an organized collection of data", "4": "standard of excellence yps3-12c/3"}
+    },
+    "correct_answer": "an organized collection of data"
+  }
+}

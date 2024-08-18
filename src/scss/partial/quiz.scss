@@ -1,0 +1,19 @@
+.text-style {
+  font-family: "Georgia", sans-serif;
+  font-size: 32px;
+  color: var(--color-dark-3xl);
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  margin: 50px 0 0 0;
+}
+
+.click {
+  border: 2px solid var(--color-dark-xl);
+  border-radius: 10px;
+  padding: 10px;
+}
+.click:hover {
+  transform: rotate(10deg);
+}
