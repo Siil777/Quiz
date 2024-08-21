@@ -1,0 +1,77 @@
+{
+  "1": {
+    "quiz_question":{
+      "quiz_text":"What is json?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"Michael Myers","2": "stands for JavaScript Object Notation",
+        "3": "This is where code becomes art", "4": "standard of deferred payment"}
+    },
+    "correct_answer":"stands for JavaScript Object Notation"
+  },
+  "2": {
+    "quiz_question":{
+      "quiz_text":"What is database?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"base system of drawing money","2":"American anthropologist ","3":"an organized collection of data", "4":"standard of excellence yps3-12c/3"}
+    },
+    "correct_answer":"an organized collection of data"
+  },
+  "3": {
+    "quiz_question":{
+      "quiz_text":"What does Math.floor?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"counts money","2":"goes through traffic light in a rainy day","3":"rounds some digit to the nearest smaller integer","4":"rounds thoughts in the blink of an eye"}
+    },
+    "correct_answer":"rounds some digit to the nearest smaller integer"
+  },
+  "4": {
+    "quiz_question":{
+      "quiz_text":"What for is used usually Math.min?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"To return a debt","2":"To send an encrypted message to a psychiatrist","3":"To return the smallest digit", "4": "To grab smth tasty"}
+    },
+    "correct_answer":"To return the smallest digit"
+  },
+  "5": {
+    "quiz_question":{
+      "quiz_text":"What is sql query?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"Language to explain database how not to behave","2":"Language to manage data",
+        "3":"modern approach to speak with your subconscious","4": "The only way to find the Stone of Destiny"}
+    },
+    "correct_answer":"Language to manage data"
+  },
+  "6": {
+    "quiz_question":{
+      "quiz_text":"What word could describe method fetch in Javascript?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"Options of behavior","2":"Strategy of MVC",
+        "3":"Data exchange","4":"standard of perfect shawarma"}
+    },
+    "correct_answer":"Data exchange"
+  },
+  "7": {
+    "quiz_question":{
+      "quiz_text":"What is Array in javascript?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"Structure of construction site","2":"Type of rule where one action always happens before another one","3":"Structure of data where can be stored different elements","4":"Standard deviation"}
+    },
+    "correct_answer":"Structure of data where can be stored different elements"
+  },
+  "8": {
+    "quiz_question":{
+      "quiz_text":"What does isArray in Javascript?"
+    },
+    "quiz_answer": {
+      "answer_types": {"1":"Talks about the meaning of life","2":"Likes speak verses up","3":"Checks if transferred argument a massive","4":"Standard of proof"}
+    },
+    "correct_answer":"Checks if transferred argument a massive"
+  }
+}
